@@ -2,7 +2,7 @@
 
 Companion code and data for the manuscript:
 
-> Payopay, J. P. M., Lumbres, R. I. C., Doyog, N. D., Talkasen, L. J., Polon, K. K. A.,
+> Payopay, J. P. M., Lumbres, R. I. C., Doyog, N. D., Godio, Q. A., Polon, K. K. A.,
 > Lingaling, M. N. T., & Carates, N. N. *Regularized Linear and Bayesian Models
 > Improve Stacked Generalization for Species Distribution Modeling.*
 > Submitted to *Ecological Modelling*.
