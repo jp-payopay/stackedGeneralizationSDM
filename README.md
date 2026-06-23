@@ -44,7 +44,6 @@ stability, while capacity beyond a regularized linear combiner adds variance wit
 │   ├── figures/           # Publication figures
 │   ├── maps/              # Suitability rasters (continuous, binary, SD/uncertainty)
 │   └── models/            # Serialized fitted models
-├── LICENSE                # MIT (code)
 └── README.md
 ```
 
