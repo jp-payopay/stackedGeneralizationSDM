@@ -1,0 +1,15 @@
+# Pinned Python environment for the Bambusa oldhamii stacked-SDM pipeline (bamboo_sdm.py)
+# Python 3.13. Versions reflect the environment used for the reported analysis.
+numpy==2.4.2
+pandas==3.0.1
+scipy==1.17.1
+scikit-learn==1.8.0
+xgboost==3.2.0
+statsmodels==0.14.6
+torch==2.11.0
+gpytorch==1.15.2
+rasterio==1.5.0
+matplotlib==3.10.8
+seaborn==0.13.2
+jenkspy==0.4.1
+joblib==1.5.3

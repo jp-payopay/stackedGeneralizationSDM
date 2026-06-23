@@ -1,0 +1,13 @@
+# Conda environment for the Bambusa oldhamii stacked-SDM pipeline (bamboo_sdm.py).
+# Create with:  conda env create -f environment.yml
+# Then run:     conda activate bamboo-sdm
+# The analysis is deterministic from a single RANDOM_STATE per replicate.
+# XGBoost uses the GPU when available and falls back to CPU automatically.
+name: bamboo-sdm
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - pip
+  - pip:
+      - -r requirements.txt
