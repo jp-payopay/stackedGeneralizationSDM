@@ -90,6 +90,7 @@ The pipeline takes two kinds of model input:
   23 May 2025). Because exact localities can fall on private landholdings, coordinates may
   be provided at coarsened spatial precision; full-precision data are available from the
   corresponding author on reasonable request.
+- The archived release is also available on Zenodo at https://doi.org/10.5281/zenodo.20815183
 
 
 ## Contact
